@@ -4,7 +4,8 @@ console.log("My name is Rahul");
 console.log("I am learning javascript");
 
 //Variables
-/* we dont need to declare datatype before usijg it in javascript(Dynamically typed language) */
+/* we dont need to declare datatype before 
+using it in javascript( since Dynamically typed language) */
 name = "Rahul Melkani";
 console.log(name);
 
